@@ -1,0 +1,10 @@
+Crear una nueva solución bajo la misma premisa que en el ejercicio 3, pero hay que agregar lo siguiente:
+-La colección no puede ser de int ni de ningún tipo base, se debe crear e implementar su propio
+tipo de dato que:
+              *Tenga un constructor que espere el valor numérico generado por el random. Si el número es 0
+debe arrojar una excepción.
+	      *Una property readonly que devuelva true si el número es positivo y false si es negativo.
+-Los métodos implementados en el ejercicio 3 deben ser refactorizados para que funcionen con este nuevo tipo de dato.
+-Crear una app de consola que cree una instancia de esta clase y llame a cada uno de estos métodos, mostrando por pantalla
+el resultado de los mismos.
+-Fijarse de manejar la excepción y mostrar un mensaje amigable al usuario informando que se intentó crear una instancia con valor = 0.

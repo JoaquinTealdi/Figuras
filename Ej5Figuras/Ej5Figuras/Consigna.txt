@@ -1,0 +1,17 @@
+Crear una nueva solución donde vamos a calcular el área de un triángulo, un rectángulo y un círculo. Para ello vamos a
+implementar lo siguiente:
+			*Clase abstracta de nombre "GLBFigure" que tenga uin método protegido abstracto "CalculateSurface" 
+que devuelva un int, otro público que devuelva un string llamado "PrintMessage" y una propiedad pública abstracta "FigureName" de tipo string.
+                        *Crear las clases "GLBTriangle", "GLBSquare", "GLBCircle" heredando de la clase "GLBFigure", y que en sus constructores
+esperen las dimensiones: 
+			-GLBTriangle: base y altura
+                        -GLBSquare: base
+                        -GLBCircle: radio
+               *Estas dimensiones deben ser expuestas en cada clase de forma que sean de solo lectura.
+               *El método "PrintMessage" al ser llamado debe calcular y mostrar la superficie de la figura en cuestión con la 
+forma "The surface of the figure ... is ...".  
+               *La property "FigureName" debe devolver el nombre que identifique a la figura.
+Mostrar el resultado de las operaciones en la consola creando instancias de cada figura y llamando a sus respectivos métodos.
+Por ej:
+GLBFigure circle = new GLBCircle(1);
+circle.PrintMessage();

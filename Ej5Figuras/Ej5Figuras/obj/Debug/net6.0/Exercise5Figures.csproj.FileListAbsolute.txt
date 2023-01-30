@@ -1,0 +1,30 @@
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.exe
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.deps.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.runtimeconfig.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.AssemblyInfo.cs
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\refint\Exercise5Figures.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.genruntimeconfig.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\ref\Exercise5Figures.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.exe
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.deps.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.runtimeconfig.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\bin\Debug\net6.0\Exercise5Figures.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.AssemblyInfo.cs
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\refint\Exercise5Figures.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\Exercise5Figures.genruntimeconfig.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 1\Ej5Figuras\ej5Figuras\obj\Debug\net6.0\ref\Exercise5Figures.dll

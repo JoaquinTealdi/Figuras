@@ -1,0 +1,15 @@
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\bin\Debug\net6.0\Exercise4.exe
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\bin\Debug\net6.0\Exercise4.deps.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\bin\Debug\net6.0\Exercise4.runtimeconfig.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\bin\Debug\net6.0\Exercise4.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\bin\Debug\net6.0\Exercise4.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\Exercise4.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\Exercise4.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\Exercise4.AssemblyInfo.cs
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\Exercise4.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\Exercise4.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\refint\Exercise4.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\Exercise4.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\Exercise4.genruntimeconfig.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\Ej4\Ej4\obj\Debug\net6.0\ref\Exercise4.dll

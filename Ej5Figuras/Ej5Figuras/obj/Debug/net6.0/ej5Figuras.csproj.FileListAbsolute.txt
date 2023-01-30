@@ -1,0 +1,15 @@
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\bin\Debug\net6.0\ej5Figuras.exe
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\bin\Debug\net6.0\ej5Figuras.deps.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\bin\Debug\net6.0\ej5Figuras.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\bin\Debug\net6.0\ej5Figuras.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\bin\Debug\net6.0\ej5Figuras.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ej5Figuras.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ej5Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ej5Figuras.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ej5Figuras.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ej5Figuras.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ej5Figuras.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\refint\ej5Figuras.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ej5Figuras.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ej5Figuras.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Intership\ej5Figuras\ej5Figuras\obj\Debug\net6.0\ref\ej5Figuras.dll
